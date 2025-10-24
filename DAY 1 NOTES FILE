@@ -1,14 +1,12 @@
-# Day [NUMBER]: [TOPIC NAME]
+# Day 1: Coffee Shop Console App + Mood Response
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
-![Date](https://img.shields.io/badge/Date-[MONTH]_[DAY]_2025-blue?style=for-the-badge)
-![Duration](https://img.shields.io/badge/Duration-[X]_Hours-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Date](https://img.shields.io/badge/Date-October_24_2025-blue?style=for-the-badge)
+![Duration](https://img.shields.io/badge/Duration-3_Hours-orange?style=for-the-badge)
 
 **Learning C# for Backend Development at cargonerds**
-
-[← Previous Day](./day[XX]-notes.md) | [Next Day →](./day[XX]-notes.md)
 
 </div>
 
@@ -16,366 +14,48 @@
 
 ## 📋 Table of Contents
 
-- [Learning Objectives](#-learning-objectives)
-- [Topics Covered](#-topics-covered)
-- [Practical Exercises](#-practical-exercises)
-- [Key Concepts Mastered](#-key-concepts-mastered)
-- [Challenges & Solutions](#-challenges--solutions)
-- [Today's Statistics](#-todays-statistics)
-- [Tomorrow's Plan](#-tomorrows-plan)
-- [Reflection](#-reflection)
+- [🎯 Learning Objectives](#-learning-objectives)
+- [📚 Topics Covered](#-topics-covered)
+- [💻 Practical Exercises](#-practical-exercises)
+- [🎯 Key Concepts Mastered](#-key-concepts-mastered)
+- [🤔 Challenges & Solutions](#-challenges--solutions)
+- [📊 Today's Statistics](#-todays-statistics)
+- [🚀 Tomorrow's Plan](#-tomorrows-plan)
+- [🌟 Reflection](#-reflection)
 
 ---
 
 ## 🎯 Learning Objectives
 
 **Goals for Today:**
-- [ ] [Goal 1]
-- [ ] [Goal 2]
-- [ ] [Goal 3]
-- [ ] [Goal 4]
+- [x] Learn how to use `Console.ReadLine()` and `Console.WriteLine()`
+- [x] Practice `if` statements and basic logic
+- [x] Create a simple menu using arrays
+- [x] Add price calculation to a console app
 
 ---
 
 ## 📚 Topics Covered
 
-### 1. [Topic Name 1]
+### 1. Console Input & Output
 
 **Key Points:**
-- [Point 1]
-- [Point 2]
-- [Point 3]
+- `Console.ReadLine()` captures user input
+- `Console.WriteLine()` displays messages
+- Strings can be compared using `==`
 
 **Why it matters:**
-- [Reason 1]
-- [Reason 2]
+- It's the foundation of user interaction in console apps
+- Helps simulate real-world systems like ordering or surveys
 
 **Simple Analogy:**
-[Your analogy here]
+> Like a cashier asking questions and printing receipts
 
 ---
 
-### 2. [Topic Name 2]
+### 2. Arrays and Menu Systems
 
-**What is [Topic]?**
-[Your explanation]
+**What is an Array?**
+A collection of items stored in a single variable.
 
 **Visual Explanation:**
-````
-[Your diagram or flow here]
-┌──────────┐     ┌──────────┐     ┌──────────┐
-│  Step 1  │ --> │  Step 2  │ --> │  Step 3  │
-└──────────┘     └──────────┘     └──────────┘
-````
-
-**Key Facts:**
-
-| Feature | Description | Benefit |
-|---------|-------------|---------|
-| [Feature 1] | [Description] | [Benefit] |
-| [Feature 2] | [Description] | [Benefit] |
-| [Feature 3] | [Description] | [Benefit] |
-
----
-
-### 3. [Topic Name 3]
-
-[Your notes here]
-
-**Important Code Pattern:**
-````csharp
-// Your code example
-using System;
-
-class Program 
-{
-    static void Main() 
-    {
-        // Your code here
-    }
-}
-````
-
----
-
-## 💻 Practical Exercises
-
-### Exercise 1: [Exercise Name]
-
-**What I Learned:** [Brief description]
-
-**Code:**
-````csharp
-using System;
-
-class Program 
-{
-    static void Main() 
-    {
-        // Your code here
-        
-    }
-}
-````
-
-**Output:**
-````
-[Your program output here]
-````
-
-**Key Takeaway:** 
-[What you learned from this exercise]
-
----
-
-### Exercise 2: [Exercise Name]
-
-**What I Learned:** [Brief description]
-
-**Code:**
-````csharp
-using System;
-
-class Program 
-{
-    static void Main() 
-    {
-        // Your code here
-        
-    }
-}
-````
-
-**Sample Run:**
-````
-[Input/output example]
-````
-
-**Concepts Practiced:**
-- [Concept 1]
-- [Concept 2]
-- [Concept 3]
-
----
-
-### Exercise 3: [Exercise Name]
-
-**My Own Project!**
-
-**What I Built:** [Description]
-
-**Code:**
-````csharp
-using System;
-
-class Program 
-{
-    static void Main() 
-    {
-        // Your creative code here
-        
-    }
-}
-````
-
-**Why This Is Cool:**
-- [Reason 1]
-- [Reason 2]
-- [Reason 3]
-
----
-
-## 🎯 Key Concepts Mastered
-
-<table>
-<tr>
-<td width="33%">
-
-### [Category 1]
-- [x] [Concept 1]
-- [x] [Concept 2]
-- [x] [Concept 3]
-- [ ] [Concept 4]
-
-</td>
-<td width="33%">
-
-### [Category 2]
-- [x] [Concept 1]
-- [x] [Concept 2]
-- [x] [Concept 3]
-- [ ] [Concept 4]
-
-</td>
-<td width="33%">
-
-### [Category 3]
-- [x] [Concept 1]
-- [x] [Concept 2]
-- [x] [Concept 3]
-- [ ] [Concept 4]
-
-</td>
-</tr>
-</table>
-
----
-
-## 💡 Key Insights & Aha Moments
-
-### 🌟 Major Realization
-
-> **"[Your big insight in quotes]"**
-
-[Explain what clicked for you today]
-
-**Visual Understanding:**
-````
-[Your diagram showing the concept]
-````
-
----
-
-### 🎨 [Another Insight]
-
-[What you discovered]
-
-**Example:**
-````csharp
-// Code that demonstrates your insight
-````
-
----
-
-## 🤔 Challenges & Solutions
-
-### Challenge 1: [Problem Name]
-
-**Problem:** [What went wrong]
-
-**Error Message:**
-````
-[Actual error if applicable]
-````
-
-**Solution:** [How you fixed it]
-
-**Lesson Learned:** [What you'll remember for next time]
-
----
-
-### Challenge 2: [Problem Name]
-
-**Problem:** [What went wrong]
-
-**Solution:** [How you fixed it]
-
-**Code Before:**
-````csharp
-// Wrong code
-````
-
-**Code After:**
-````csharp
-// Fixed code
-````
-
----
-
-## 📊 Today's Statistics
-
-<div align="center">
-
-| Metric | Value |
-|:------:|:-----:|
-| ⏰ **Study Time** | [X] hours |
-| 📖 **Reading Time** | [X] min |
-| 💻 **Coding Time** | [X] min |
-| 📝 **Lines Written** | ~[X] |
-| 🎯 **Programs Created** | [X] |
-| 💡 **Concepts Learned** | [X] |
-| 🔥 **Git Commits** | [X] |
-| 😊 **Fun Level** | [X]/10 |
-
-</div>
-
----
-
-## 🚀 Tomorrow's Plan
-
-### Topics to Learn
-- [ ] [Topic 1]
-- [ ] [Topic 2]
-- [ ] [Topic 3]
-
-### Projects to Build
-- [ ] [Project 1]
-- [ ] [Project 2]
-- [ ] [Project 3]
-
-### Goals
-- [ ] [Goal 1]
-- [ ] [Goal 2]
-- [ ] [Goal 3]
-
----
-
-## 📚 Resources Used
-
-- **Primary:** [Main resource]
-- **Videos:** [Video links if any]
-- **Documentation:** [Docs you referenced]
-- **Tools:** [Tools you used]
-
----
-
-## 🌟 Reflection
-
-### What Went Well ✅
-- [Thing 1]
-- [Thing 2]
-- [Thing 3]
-
-### What Was Challenging ⚠️
-- [Challenge 1]
-- [Challenge 2]
-- [Challenge 3]
-
-### What I'll Do Differently Tomorrow 📈
-- [Improvement 1]
-- [Improvement 2]
-- [Improvement 3]
-
----
-
-## 🎉 Biggest Win Today
-
-**[Your biggest accomplishment]**
-
-[Explain why this was significant]
-
----
-
-<div align="center">
-
-### 💪 Day [X] Complete!
-
-**Next:** [Day [X+1] - [Topic] →](./day[XX]-notes.md)
-````
-┌────────────────────────────────────┐
-│  "[Motivational quote]"            │
-│   - [Author]                       │
-└────────────────────────────────────┘
-````
-
-**Commit Message:** `Day [X] complete: [Brief summary]`
-
-![Progress](https://img.shields.io/badge/Progress-Day_[X]%2F21-brightgreen?style=for-the-badge)
-
-</div>
-
----
-
-**Last Updated:** [Date]  
-**Status:** ✅ Completed and Documented  
-**Ready for:** Day [X+1]
